@@ -1,0 +1,12 @@
+# Core HTTP & Web Scraping
+httpx>=0.27.0
+beautifulsoup4>=4.12.3
+lxml>=5.2.0
+playwright>=1.44.0
+
+# Data Validation & Modeling
+pydantic>=2.7.0
+
+# Terminal UI & CLI
+typer[all]>=0.12.0
+rich>=13.7.0

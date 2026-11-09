@@ -1,0 +1,25 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Databases & local data
+*.db
+*.sqlite3
+*.sqlite
+data/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Logs & exports
+*.log
+exports/
